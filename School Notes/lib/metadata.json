@@ -1,0 +1,461 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1717446831180,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars show-inline-title theme-light",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.20.42 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.46.17 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.52.53 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.55.33 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 8.31.58 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 8.34.38 PM.png",
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 10.37.23 PM.png",
+    "English Grammar Notes/Parts of Speech/Nouns/Common and Proper Nouns.md",
+    "English Grammar Notes/Parts of Speech/Nouns/Concrete and Abstract Nouns.md",
+    "English Grammar Notes/Parts of Speech/Nouns/Singular and Plural Nouns.md",
+    "English Grammar Notes/Parts of Speech/Nouns/What is a Noun?.md",
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Future Tense.md",
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Past Tense.md",
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Present Tense.md",
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/What is Verb Tense?.md",
+    "English Grammar Notes/Parts of Speech/Verb/Action, Linking and Helping Verbs.md",
+    "English Grammar Notes/Parts of Speech/Verb/Verb Aggrement.md",
+    "English Grammar Notes/Parts of Speech/Verb/What is a Verb?.md",
+    "English Grammar Notes/Parts of Speech/Adverb.md",
+    "English Grammar Notes/Subordinate Clauses/Adjective Clause.md",
+    "English Grammar Notes/Subordinate Clauses/Adverb Clause.md",
+    "English Grammar Notes/Subordinate Clauses/Noun Clause.md",
+    "English Grammar Notes/How I format notes..md",
+    "lib/media/screenshot-2024-06-02-at-5.20.42-pm.png",
+    "lib/media/screenshot-2024-06-02-at-5.55.33-pm.png",
+    "lib/media/screenshot-2024-06-02-at-8.31.58-pm.png",
+    "lib/media/screenshot-2024-06-02-at-8.34.38-pm.png",
+    "lib/media/screenshot-2024-06-02-at-5.52.53-pm.png",
+    "lib/media/screenshot-2024-06-02-at-5.46.17-pm.png",
+    "lib/media/screenshot-2024-06-02-at-10.37.23-pm.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.20.42 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 653300,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-5.20.42-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.46.17 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 203393,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-5.46.17-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.52.53 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 355692,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-5.52.53-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 5.55.33 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 454244,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-5.55.33-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 8.31.58 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1207690,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-8.31.58-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 8.34.38 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 753853,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-8.34.38-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Example Images/Screenshot 2024-06-02 at 10.37.23 PM.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 86100,
+      "exportedPath": "english-grammar-notes/example-images/screenshot-2024-06-02-at-10.37.23-pm.png",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Nouns/Common and Proper Nouns.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 698,
+      "exportedPath": "english-grammar-notes/parts-of-speech/nouns/common-and-proper-nouns.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Nouns/Concrete and Abstract Nouns.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 194,
+      "exportedPath": "english-grammar-notes/parts-of-speech/nouns/concrete-and-abstract-nouns.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Nouns/Singular and Plural Nouns.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 468,
+      "exportedPath": "english-grammar-notes/parts-of-speech/nouns/singular-and-plural-nouns.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-5.20.42-pm.png"
+      ]
+    },
+    "English Grammar Notes/Parts of Speech/Nouns/What is a Noun?.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 178,
+      "exportedPath": "english-grammar-notes/parts-of-speech/nouns/what-is-a-noun/what-is-a-noun.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Future Tense.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 476,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/verb-tense/the-future-tense.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Past Tense.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 245,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/verb-tense/the-past-tense.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/The Present Tense.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 226,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/verb-tense/the-present-tense.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Verb Tense/What is Verb Tense?.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 126,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/verb-tense/what-is-verb-tense/what-is-verb-tense.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-5.55.33-pm.png"
+      ]
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Action, Linking and Helping Verbs.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 781,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/action,-linking-and-helping-verbs.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-8.31.58-pm.png",
+        "lib/media/screenshot-2024-06-02-at-8.34.38-pm.png"
+      ]
+    },
+    "English Grammar Notes/Parts of Speech/Verb/Verb Aggrement.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 44,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/verb-aggrement.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-5.52.53-pm.png"
+      ]
+    },
+    "English Grammar Notes/Parts of Speech/Verb/What is a Verb?.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 207,
+      "exportedPath": "english-grammar-notes/parts-of-speech/verb/what-is-a-verb/what-is-a-verb.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-5.46.17-pm.png"
+      ]
+    },
+    "English Grammar Notes/Parts of Speech/Adverb.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 148,
+      "exportedPath": "english-grammar-notes/parts-of-speech/adverb.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Subordinate Clauses/Adjective Clause.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1580,
+      "exportedPath": "english-grammar-notes/subordinate-clauses/adjective-clause.html",
+      "dependencies": [
+        "lib/media/screenshot-2024-06-02-at-10.37.23-pm.png"
+      ]
+    },
+    "English Grammar Notes/Subordinate Clauses/Adverb Clause.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 946,
+      "exportedPath": "english-grammar-notes/subordinate-clauses/adverb-clause.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/Subordinate Clauses/Noun Clause.md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1243,
+      "exportedPath": "english-grammar-notes/subordinate-clauses/noun-clause.html",
+      "dependencies": []
+    },
+    "English Grammar Notes/How I format notes..md": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 163,
+      "exportedPath": "english-grammar-notes/how-i-format-notes..html",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-5.20.42-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 653300,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-5.20.42-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-5.55.33-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 454244,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-5.55.33-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-8.31.58-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1207690,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-8.31.58-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-8.34.38-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 753853,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-8.34.38-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-5.52.53-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 355692,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-5.52.53-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-5.46.17-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 203393,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-5.46.17-pm.png",
+      "dependencies": []
+    },
+    "lib/media/screenshot-2024-06-02-at-10.37.23-pm.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 86100,
+      "exportedPath": "lib/media/screenshot-2024-06-02-at-10.37.23-pm.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 14218,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 1886,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1717446831180,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
